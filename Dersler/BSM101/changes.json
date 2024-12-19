@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": "2024-12-19T04:02:50.412760",
+    "event_type": "silindi",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni klasör",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T04:02:50.415759",
+    "event_type": "silindi",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\nfsfn.txt",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T15:58:10.011426",
+    "event_type": "oluşturuldu",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni Metin Belgesi.txt",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T15:58:10.834292",
+    "event_type": "taşındı",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni Metin Belgesi.txt -> C:\\Dersler\\BSM101\\Ödevler\\gwdeg.txt",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T15:58:12.854261",
+    "event_type": "silindi",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\gwdeg.txt",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T16:39:51.646306",
+    "event_type": "oluşturuldu",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni Metin Belgesi.txt",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T16:40:05.114689",
+    "event_type": "taşındı",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni Metin Belgesi.txt -> C:\\Dersler\\BSM101\\Ödevler\\sksfksbf.txt",
+    "is_directory": false
+  },
+  {
+    "timestamp": "2024-12-19T16:40:05.117691",
+    "event_type": "oluşturuldu",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni klasör",
+    "is_directory": true
+  },
+  {
+    "timestamp": "2024-12-19T16:40:05.122200",
+    "event_type": "taşındı",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\Yeni klasör -> C:\\Dersler\\BSM101\\Ödevler\\sdsafsf",
+    "is_directory": true
+  },
+  {
+    "timestamp": "2024-12-19T16:40:05.125200",
+    "event_type": "değiştirildi",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\sdsafsf",
+    "is_directory": true
+  },
+  {
+    "timestamp": "2024-12-19T16:40:05.128200",
+    "event_type": "silindi",
+    "path": "C:\\Dersler\\BSM101\\Ödevler\\sksfksbf.txt",
+    "is_directory": false
+  }
+]
